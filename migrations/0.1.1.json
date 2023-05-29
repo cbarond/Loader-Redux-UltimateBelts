@@ -1,0 +1,22 @@
+{
+  "entity":
+  [
+    ["faster-loader", "green-loader"],
+    ["extremely-fast-loader", "purple-loader"],
+    ["ultra-fast-loader", "ultra-fast-loader"],
+    ["extreme-fast-loader", "extreme-fast-loader"],
+    ["ultra-express-loader", "ultra-express-loader"],
+    ["extreme-express-loader", "extreme-express-loader"],
+    ["ultimate-loader", "ultimate-loader"]
+  ],
+  "item":
+  [
+    ["faster-loader", "green-loader"],
+    ["extremely-fast-loader", "purple-loader"],
+    ["ultra-fast-loader", "ultra-fast-loader"],
+    ["extreme-fast-loader", "extreme-fast-loader"],
+    ["ultra-express-loader", "ultra-express-loader"],
+    ["extreme-express-loader", "extreme-express-loader"],
+    ["ultimate-loader", "ultimate-loader"]
+  ]
+}
